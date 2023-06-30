@@ -1,78 +1,100 @@
-Before moving, try making things **automatic**. Each and every ingredient of your work can be automated and will bring a solid success. <br>
+## Diving deep into DeepWork
 
-```
-To have a ritual, to follow every day, every hour.
-Your morning with plans and decisions.
-Refocus a minute in every hour.
-Close the day asking: 
-Did the plan work? Note backlogs.
-What strategy can I repeat or not-repeat the next day?
-Do I need to update someone?
-Did I progress in learning something that I wanted to?
+Deep work is a term coined by productivity expert Cal Newport. It refers to concentrating on a specific work without distraction. 
+## The following procedure can be followed:
+1. Minimize distractions (turn them off)
+2. Block time
+3. Set and follow small and large protocols (as in work place rituals)
+4. Optimize your work space
+5. Prioritize
+6. Take a break
 
-Morning plans: Prioritize, Plan of Action, Update people, Start and continue with a deep breadth and a smile.
+## Framework:
+1. Planning
+    - Set Long term goals
+    - Set short term goals
+    - List and breakdown them down in detail and attach an ETA
+    - Block time for tasks
+    - Set this up once in two days and follow a protocol
+2. Workspace
+    - Minimizing distractions
+    - Designated space and dedicated time
+    - List down resources
+3. Protocol
+    - Pre-work ritual: 
+        - Setting up things needed during the deep work session such as Water
+        - Review goals
+    - Put forth a sprint culture and plan for transition between sprints
+4. Mind-body as a resource
+    - Reminding self of importance of deep work
+    - Not giving up to challenges, off tracks and external factors
+    - Train attention and focus
+    - Ensure healthy life style, sleep, hydration, diet, etc.
 
-Now define your success. Clear goals. Stack skills. think from first principles, consistent, high-quality output. Prioritise health. 
+Here is an example for a specific goal.
+1. **Planning:**
+   - Long-Term Goals:
+     - Goal 1: Complete a research paper on artificial intelligence.
+       - Tasks requiring deep work:
+         - Task 1: Review literature on AI algorithms.
+         - Task 2: Conduct experiments and gather data.
+         - Task 3: Write and revise the paper.
+       - Deadline: 3 months from now.
 
-1. Organize, plan and have a to-do list before bed.
-2. Relax, to achieve more.
-3. Take action.
-4. Take personal care. (Health and Appearance)
-5. Start early and under promise.
-6. Get into details.
-7. Communicate.
-8. Present.
-```
+   - Task Breakdown:
+     - Task 1: Review literature on AI algorithms.
+       - Subtask 1: Identify relevant research papers.
+       - Subtask 2: Read and take notes on each paper.
+       - Subtask 3: Summarize key findings and insights.
 
+   - Time Blocking:
+     - Monday:
+       - Deep Work Session 1: 9:00 AM - 11:00 AM (Literature review)
+       - Break: 11:00 AM - 11:15 AM
+       - Deep Work Session 2: 2:00 PM - 4:00 PM (Data analysis)
+     - Tuesday:
+       - Deep Work Session 1: 9:00 AM - 10:30 AM (Writing)
+       - Deep Work Session 2: 11:00 AM - 1:00 PM (Data analysis)
+       - Break: 1:00 PM - 1:30 PM
+     - Repeat for each day of the week.
 
-Deep work refers to focused, uninterrupted work that allows a deep dive into a task and produce high quality work.
-1. Define your goals
-2. Schedule a deep work duration
-3. Create an optimal environment
-4. Establish a routine
-5. Manage your focus and energy
-6. Minimiza interruptions
-7. Make a feedback loop to support above steps
+2. **Workspace:**
+   - Distraction Minimization:
+     - Turn off phone/laptop notifications.
+     - Close unnecessary tabs/applications.
+     - Use a website blocker to prevent access to distracting websites during deep work sessions.
 
-We generally use that sub conciously to finish a work across the deadlines, but there is so much potential that it can provide us a very satisfying result.
+   - Designated Workspace:
+     - Set up a dedicated workspace in a quiet corner.
+     - Remove any clutter and ensure proper lighting.
+     - Use a comfortable chair and ergonomic desk setup.
 
-Define your goals:
+   - Tools and Resources:
+     - Computer/laptop: MacBook Pro with relevant software installed.
+     - Software/tools: Python programming language, Jupyter Notebook, reference management software.
+     - Other materials: Research papers, notebooks, and pens.
 
-- Determine the specific tasks or projects that require your focused attention and would benefit from deep work.
-- Set clear objectives and outcomes for each deep work session.
+3. **Protocol:**
+   - Rituals and Triggers:
+     - Pre-work ritual: Start deep work sessions by meditating for 5 minutes to clear mind and set a focused mindset.
+     - Deep work trigger: Put on noise-canceling headphones and play instrumental music to signal the start of deep work sessions.
 
-Schedule a deep work duration:
+   - Deep Work Sprints:
+     - Duration: Have deep work sprints for 90 minutes each.
+     - Breaks: Take a 15-minute break after each deep work sprint to rest, stretch, and recharge.
 
-- Allocate dedicated blocks of time for deep work in your schedule. The length and frequency will depend on your preferences and the nature of your work.
-- Consider your peak energy and concentration periods when scheduling deep work sessions.
-- Communicate your deep work schedule to colleagues or family members, so they are aware of your availability during those times.
+   - Transition Periods:
+     - At the end of each deep work session, review progress, update task list if necessary, and reflect on any challenges or insights.
 
-Create an optimal environment:
+4. **Mind-body as a resource:**
+   - Deep Work Mindset:
+     - Understand the value of deep work in producing high-quality results.
+     - Commit to staying focused and eliminating distractions during deep work sessions.
+     - Embrace the challenges and rewards that come with deep work.
 
-- Find a quiet and distraction-free workspace where you can focus without interruptions.
-- Minimize digital distractions by turning off notifications on your devices or using apps/extensions that block - certain websites or apps during deep work sessions.
-- Gather all the necessary materials and resources you'll need before starting your deep work session to avoid interruptions.
+   - Attention Management:
+     - Practice mindfulness meditation for 10 minutes each morning to improve ability to sustain focus and resist distractions.
 
-Establish a routine:
-
-- Develop a pre-work routine that signals your brain it's time to enter a focused state. This can include activities like meditation, reviewing your goals, or listening to calming music.
-- Consider using a specific ritual or habit to mark the end of a deep work session and transition back to regular work or break time.
-
-Manage Your focus and energy:
-
-- Prioritize the most challenging or important tasks during your deep work sessions when your mind is fresh and alert.
-- Use techniques like the Pomodoro Technique (working in focused intervals with short breaks) or time blocking to manage your attention and maintain productivity.
-- Take regular breaks between deep work sessions to recharge and avoid mental fatigue.
-
-Minimize interruptions:
-
-- Communicate your availability and deep work schedule to colleagues or team members to minimize interruptions.
-- Consider using a "Do Not Disturb" sign, headphones, or other signals to indicate your focus and discourage - interruptions.
-- If necessary, find alternative locations (e.g., a library or a quiet coffee shop) where you can work without distractions.
-
-Make a feedback loop to support above steps:
-
-- Regularly evaluate your deep work sessions and assess their effectiveness.
-- Identify any challenges or distractions that hinder your deep work and find strategies to overcome them.
-- Continually refine your deep work routine based on your observations and feedback.
-
+   - Self-Care and Well-being:
+     - Ensure 7-8 hours of sleep each night to maintain optimal cognitive functioning.
+     - Take breaks throughout the day to stretch, exercise, or engage in activities that help relax and rejuvenate.
